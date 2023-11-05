@@ -1,0 +1,1 @@
+valor = int(input('Digite o valor que deseja sacar: $'))
